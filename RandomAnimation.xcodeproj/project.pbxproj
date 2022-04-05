@@ -64,9 +64,8 @@
 				8C65452027FCFCAC007B13BC /* Services */,
 				8C65451F27FCFC87007B13BC /* Models */,
 				8C65452227FCFD0B007B13BC /* Storyboards */,
-				8C6544F927FC9F1E007B13BC /* AppDelegate.swift */,
-				8C6544FB27FC9F1E007B13BC /* SceneDelegate.swift */,
-				8C65450227FC9F20007B13BC /* Assets.xcassets */,
+				8C65452327FCFD54007B13BC /* Resources */,
+				8C65452427FCFD6C007B13BC /* App */,
 				8C65450727FC9F20007B13BC /* Info.plist */,
 			);
 			path = RandomAnimation;
@@ -105,6 +104,23 @@
 				8C65450427FC9F20007B13BC /* LaunchScreen.storyboard */,
 			);
 			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		8C65452327FCFD54007B13BC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8C65450227FC9F20007B13BC /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		8C65452427FCFD6C007B13BC /* App */ = {
+			isa = PBXGroup;
+			children = (
+				8C6544F927FC9F1E007B13BC /* AppDelegate.swift */,
+				8C6544FB27FC9F1E007B13BC /* SceneDelegate.swift */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
