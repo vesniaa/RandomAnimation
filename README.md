@@ -1,3 +1,5 @@
+<img width="1592" alt="Снимок экрана 2022-04-17 в 21 47 50" src="https://user-images.githubusercontent.com/62894376/163724322-9b976443-9062-451a-b744-95155e905885.png">
+
 2.9 CocoaPods и работа с анимациями
 
 * Понятие Cocoa
